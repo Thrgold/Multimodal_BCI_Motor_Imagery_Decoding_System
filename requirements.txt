@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+mne
+h5py
+matplotlib
+torch
+opencv-python
+Pillow
